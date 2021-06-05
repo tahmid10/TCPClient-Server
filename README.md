@@ -1,1 +1,2 @@
 # TCPClient-Server
+In this project, we will use Python 3.6 to create a socket. Sockets are utilized to send messages though a network. We will create two files in which  one will contain the TCP Client file and TCP Server file. In order to test the validity of this project, it should be noted that there are two computers needed to establish the connection between TCP Client and TCP Server. One computer will act as the Client while the other computer acts as Server. 
